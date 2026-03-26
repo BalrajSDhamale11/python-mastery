@@ -1,1 +1,16 @@
-# python-mastery
+# Python Mastery 🐍
+
+Learning Python from scratch — structured practice problems
+with logic building focus.
+
+## Progress
+- [x] Variables
+- [x] Data Types
+- [x] Type Casting
+- [ ] String Methods
+- [ ] if/else
+- [ ] Loops
+
+## Resources
+- BroCode YouTube Channel
+- Claude AI — mentor & problem designer
