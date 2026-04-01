@@ -7,7 +7,7 @@ with logic building focus.
 - [x] Variables
 - [x] Data Types
 - [x] Type Casting
-- [ ] String Methods
+- [x] String Methods
 - [ ] if/else
 - [ ] Loops
 
