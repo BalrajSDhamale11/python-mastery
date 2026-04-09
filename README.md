@@ -14,3 +14,8 @@ with logic building focus.
 ## Resources
 - BroCode YouTube Channel
 - Claude AI — mentor & problem designer
+
+## PUSHING THE CODE
+git add .
+git commit -m "Add: string_methods problems"
+git push
