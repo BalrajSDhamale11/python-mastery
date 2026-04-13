@@ -8,6 +8,7 @@ with logic building focus.
 - [x] Data Types
 - [x] Type Casting
 - [x] String Methods
+- [x] Math Functions
 - [ ] if/else
 - [ ] Loops
 
