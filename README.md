@@ -18,5 +18,5 @@ with logic building focus.
 
 ## PUSHING THE CODE
 git add .
-git commit -m "Add: string_methods problems"
+git commit -m "Add: concept_name - file_name"
 git push
