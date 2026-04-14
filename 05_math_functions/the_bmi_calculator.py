@@ -21,7 +21,7 @@ else:
     converted_height = height / 3.28084
 
 # Calculating BMI and other calculatons
-actual_bmi = converted_weight / pow(converted_height,2)
+actual_bmi = converted_weight / pow(converted_height,2) #alternative [height ** 2] or [math.pow(height, 2)] 
 rounded_bmi = round(actual_bmi,2)
 ceiling_bmi = math.ceil(rounded_bmi)
 floor_bmi = math.floor(rounded_bmi)
