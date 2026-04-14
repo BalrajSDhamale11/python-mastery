@@ -1,3 +1,6 @@
+# 🔺 Level 2 — Logic Challenge
+# "The Smart Login System"
+
 #To full fill each condition in the output this code was generated
 set_username = "raj"
 set_password = "pass123"

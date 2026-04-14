@@ -1,3 +1,6 @@
+# 🔺 Level 3 — Full Integration
+# "The Message Formatter"
+
 message = input("Enter your message: ")
 original = message
 cleaned_m = message.strip()

@@ -1,3 +1,6 @@
+# 🔺 Level 2 — Logic Challenge
+# "The Input Cleaner"
+
 email = input("Enter email: ")
 username = input("Enter username: ")
 cleaned_email = email.strip().lower()

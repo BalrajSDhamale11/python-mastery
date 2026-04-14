@@ -1,3 +1,6 @@
+# 🔺 Level 3 — Full Integration
+# "The Smart Receipt"
+
 store_name = "QuickMart"
 item_bought = "Headphones"
 quantity = 2

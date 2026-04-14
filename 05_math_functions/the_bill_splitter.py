@@ -1,3 +1,6 @@
+# 🔺 Level 2 — Logic Challenge
+# "The Bill Splitter"
+
 import math
 total_bill = float(input("Enter the total bill: "))
 no_of_people = int(input("Enter number of people: "))
