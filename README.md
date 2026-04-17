@@ -9,7 +9,7 @@ with logic building focus.
 - [x] Type Casting
 - [x] String Methods
 - [x] Math Functions
-- [ ] if/else
+- [x] if/else
 - [ ] Loops
 
 ## Resources
