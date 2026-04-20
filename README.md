@@ -10,7 +10,7 @@ with logic building focus.
 - [x] String Methods
 - [x] Math Functions
 - [x] if/else
-- [ ] Loops
+- [ ] Logical Operators
 -
 
 ## Resources
