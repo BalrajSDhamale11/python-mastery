@@ -11,7 +11,7 @@ with logic building focus.
 - [x] Math Functions
 - [x] if/else
 - [x] Logical Operators
--
+- [x] While Loop
 
 ## Resources
 - BroCode YouTube Channel
