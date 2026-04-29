@@ -42,4 +42,3 @@ for num in range(2, limit + 1):
 
 
 print(f"\n\nTotal primes found: {prime_counter}")
-
